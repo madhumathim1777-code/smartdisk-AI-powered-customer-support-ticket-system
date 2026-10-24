@@ -1,0 +1,6 @@
+{
+  "name": "SmartDesk AI",
+  "description": "AI-Powered Customer Support Ticket Management Platform with automated ticket classification, urgency estimation, solution recommendations, conversation summarization, semantic search, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
